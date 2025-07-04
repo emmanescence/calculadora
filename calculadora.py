@@ -40,7 +40,7 @@ def calcular_bancas(porcentajes_fuerzas, total_bancas):
     return bancas_por_cociente, porcentaje_restante
 
 # Streamlit App
-st.title("🗳️ Calculadora de bancas legislativas - La Plata")
+st.title("🗳️ Calculadora de bancas legislativas - La Plata / https://x.com/iterAR_eco'" )
 
 st.write("Ingresá los porcentajes de votos de las fuerzas. El cálculo se hace según la Ley Electoral para concejales (12 bancas) y diputados (6 bancas).")
 
